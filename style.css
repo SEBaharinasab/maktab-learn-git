@@ -17,14 +17,18 @@ html, body{
   align-items: center;
 }
 .form{
-  min-width: 22rem;
+  min-width: 25rem;
   background-color: #fff;
   padding: 3rem;
   display: flex;
   flex-direction: column;
 }
+.form h2 {
+  text-align: center;
+}
 .form>*{
   margin-bottom: 1rem;
+  width: 100%;
 }
 .form .input {
   border: 0;
