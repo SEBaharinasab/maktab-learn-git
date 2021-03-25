@@ -28,6 +28,14 @@ html, body{
   outline: none;
   background-color: #e2e2e2;
 }
+.form .submit{
+  padding: 0.7rem;
+  text-transform: uppercase;
+  background-color: #409623;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+}
 .form .info{
   margin-top: 0;
 }
