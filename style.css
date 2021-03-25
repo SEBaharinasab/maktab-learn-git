@@ -17,6 +17,7 @@ html, body{
   align-items: center;
 }
 .form{
+  min-width: 22rem;
   background-color: #fff;
   padding: 3rem;
   display: flex;
