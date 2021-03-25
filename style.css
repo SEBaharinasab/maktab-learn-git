@@ -22,6 +22,12 @@ html, body{
 .form>*{
   margin-bottom: 1rem;
 }
+.form .input {
+  border: 0;
+  padding: 0.8rem 1.2rem;
+  outline: none;
+  background-color: #e2e2e2;
+}
 .form .info{
   margin-top: 0;
 }
