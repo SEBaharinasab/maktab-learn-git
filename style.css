@@ -23,7 +23,7 @@ html, body{
   display: flex;
   flex-direction: column;
 }
-.form h2 {
+.form h1 {
   text-align: center;
 }
 .form>*{
